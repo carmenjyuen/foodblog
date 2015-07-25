@@ -9,7 +9,7 @@
 
 #blog {
   position: absolute;
-  right: 0px;
+  right: 15px;
   height: 100%;
   overflow-y: auto; 
 }
